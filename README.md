@@ -1,2 +1,2 @@
-# car_price_prediction
- Prediction of price of a car using car price dataset with R 
+# Car Price Prediction
+ Prediction of price of a car using [car price dataset](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction) in R.
